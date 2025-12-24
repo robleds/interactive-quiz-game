@@ -1,4 +1,4 @@
-# OBA Shell CS Online Game 2023
+# interactive-quiz-game-2023
 
 Aplicação web interativa desenvolvida para o evento CS Online 2023.
 
@@ -24,8 +24,8 @@ Aplicação web desenvolvida com React e Vite para o evento CS Online 2023, ofer
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/oba-shell-csonline-game-2023.git
-cd oba-shell-csonline-game-2023
+git clone https://github.com/SEU-USUARIO/interactive-quiz-game-2023.git
+cd interactive-quiz-game-2023
 ```
 
 2. Instale as dependências:

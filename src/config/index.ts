@@ -6,7 +6,7 @@ const title = 'CS Online';
 
 const email = 'obatag@doctorweb.com.br';
 
-const repository = 'https://github.com/SEU-USUARIO/oba-shell-csonline-game-2023';
+const repository = 'https://github.com/SEU-USUARIO/interactive-quiz-game-2023';
 
 const messages = {
   app: {
